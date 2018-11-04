@@ -1,0 +1,41 @@
+.ProductItem {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    min-height: 300px;
+    margin: 20px 0;
+}
+.ProductItem--card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.ProductItem--card-title {
+}
+.ProductItem--card-size {
+
+}
+.ProductItem--card-price {
+
+}
+.ProductItem--card-date {
+
+}
+.ProductItem--image {
+
+}
+.ProductItem--image-title {
+
+}
+.ProductItem--image-pic {
+
+}
+@media only screen and (max-width: 600px) {
+    .ProductItem {
+        width: 48%;
+    }
+}

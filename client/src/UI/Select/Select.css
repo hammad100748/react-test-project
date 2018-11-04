@@ -1,0 +1,12 @@
+.Select {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.Select--title {
+    font-size: 1rem;
+}
+.Select--Input {
+    width: 20%;
+    margin: 0 20px;
+}
